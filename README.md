@@ -1,10 +1,26 @@
 <img src="./banner.png" alt="Banner" width="100%">
 
-### 🧠 Sobre mim
+## 🧑‍💻 Quem sou eu?
 
-- 🔭 Atualmente estudando
-- 💡 Interesse: Desenvolvimento Web e Tecnologia
-- 📍 Brasil 🇧🇷
+```javascript
+const arthur = {
+    nome: "Arthur",
+    usuario: "MurderDev",
+    localizacao: "Brasil 🇧🇷",
+
+    area: "Desenvolvimento Web",
+
+    interesses: [
+        "Programação",
+        "Desenvolvimento Web",
+        "Tecnologia",
+        "Projetos"
+    ],
+
+    objetivo: "Me tornar um excelente Fullstack Developer 🚀",
+
+    status: "Sempre aprendendo... 💻"
+};
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,python,mysql,css,js,git,github,vscode,linux />
