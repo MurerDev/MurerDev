@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Quem sou eu?
 
-``javascript
+javascript
 const arthur = {
     nome: "Arthur",
     usuario: "MurderDev",
