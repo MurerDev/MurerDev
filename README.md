@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Quem sou eu?
 
-```javascript
+``javascript
 const arthur = {
     nome: "Arthur",
     usuario: "MurderDev",
@@ -26,11 +26,8 @@ const arthur = {
   <img src="https://skillicons.dev/icons?i=php,python,mysql,css,js,git,github,vscode,linux />
 </p>
 
-<p align="center"> <a href="https://github.com/MurerDev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a> <a href="mailto:arthurmurer3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-</p>
+🌐 Onde me encontrar
+<p align="center"> <a href="https://github.com/MurderDev"> <img src="https://img.shields.io/badge/GitHub-008CFF?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://instagram.com/SEU_INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-008CFF?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://linkedin.com/in/SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-008CFF?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
 
 ## ⚡ Linguagens & Tecnologias
 
