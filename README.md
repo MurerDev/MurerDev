@@ -25,12 +25,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" />
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CSS3-008CFF?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-008CFF?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-008CFF?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-008CFF?style=for-the-badge&logo=python&logoColor=white">
-</p>
