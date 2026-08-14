@@ -7,5 +7,5 @@
 - 📍 Brasil 🇧🇷
 
 <p align="center">
-  <imagem src="https://skillicons.dev/icons?i=php,css,js,github,vscode/>
+  <img src="https://skillicons.dev/icons?i=php,python,mysql,css,js,git,github,vscode,linux/>
 </p>
