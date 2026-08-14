@@ -2,8 +2,8 @@
 
 ## 🧑‍💻 Quem sou eu?
 
-```javascript
-const arthur = {
+
+```const arthur ```= {
     nome: "Arthur",
     usuario: "MurderDev",
     localizacao: "Brasil 🇧🇷",
