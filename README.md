@@ -1,27 +1,5 @@
 <img src="./banner.png" alt="Banner" width="100%">
 
-## 🧑‍💻 Quem sou eu?
-
-
-```const arthur ```= {
-    nome: "Arthur",
-    usuario: "MurderDev",
-    localizacao: "Brasil 🇧🇷",
-
-   ``` area: "Desenvolvimento Web",
-
-    interesses: [
-        "Programação",
-        "Desenvolvimento Web",
-        "Tecnologia",
-        "Projetos"
-    ],
-
-    objetivo: "Me tornar um excelente Fullstack Developer 🚀",
-
-    status: "Sempre aprendendo... 💻"
-};
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,python,mysql,css,js,git,github,vscode,linux />
 </p>
