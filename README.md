@@ -5,7 +5,7 @@
 </p>
 
 🌐 Onde me encontrar
-<p align="center"> <a href="https://github.com/MurderDev"> <img src="https://img.shields.io/badge/GitHub-008CFF?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://instagram.com/SEU_INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-008CFF?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://linkedin.com/in/SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-008CFF?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
+<p align="center"> <a href="https://github.com/MurderDev"> <img src="https://img.shields.io/badge/GitHub-008CFF?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://instagram.com/arthur_murer"> <img src="https://img.shields.io/badge/Instagram-008CFF?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://linkedin.com/in/SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-008CFF?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
 
 ## ⚡ Linguagens & Tecnologias
 
