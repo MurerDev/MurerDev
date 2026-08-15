@@ -8,7 +8,7 @@
     usuario: "MurderDev",
     localizacao: "Brasil 🇧🇷",
 
-    area: "Desenvolvimento Web",
+   ``` area: "Desenvolvimento Web",
 
     interesses: [
         "Programação",
