@@ -50,25 +50,6 @@
 
 ---
 
-## 🚀 Currently
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   🌐  Web Development                        │
-│   🖥️  Complete Systems                       │
-│   🗄️  Databases                               │
-│   ⚙️  Backend Development                     │
-│   📚  Learning new technologies              │
-│   💡  Building new projects                  │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
----
-
 ## 📊 GitHub Statistics
 
 <table align="center" width="100%">
@@ -91,25 +72,6 @@
     </td>
   </tr>
 </table>
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udaysharmadev&theme=tokyonight"
-        alt="Languages by Repository"
-        width="100%"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udaysharmadev&theme=tokyonight"
-        alt="Languages by Commit"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
 
 ---
 
