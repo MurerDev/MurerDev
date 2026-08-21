@@ -60,13 +60,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="GitHub Overview"
-    width="80%"
-  />
-</p>
 
 ---
 
