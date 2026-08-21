@@ -42,7 +42,7 @@
 ---
 
 <p align="center">
-  <img src="bannir.gif" />
+  <img src="./bannir.gif" width="100%">
 </p>
 
 ---
