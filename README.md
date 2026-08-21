@@ -1,22 +1,3 @@
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udaysharmadev&theme=tokyonight"
-        alt="Languages by Repository"
-        width="100%"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udaysharmadev&theme=tokyonight"
-        alt="Languages by Commit"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:16191d,100:8c8c8c&height=230&section=header&text=MURER&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=MURERDEV%20%7C%20WEB%20DEVELOPER&descSize=18&descAlignY=61&descColor=b8b8b8" />
 </p>
@@ -90,12 +71,45 @@
 
 ## 📊 GitHub Statistics
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<table align="center" width="100%">
+  <tr>
+    <td width="75%" align="center">
+      <h3>📈 Contribution Activity</h3>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=tokyo-night&hide_border=true&area=true&height=180"
+        alt="Contribution Activity"
+        width="100%"
+      />
+    </td>
+    <td width="25%" align="center">
+      <h3>📌 GitHub Overview</h3>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udaysharmadev&theme=tokyonight"
+        alt="GitHub Overview"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udaysharmadev&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udaysharmadev&theme=tokyonight"
+        alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="./profile/stats.svg" height="180">
-  <img src="./profile/top-langs.svg" height="180">
-</p>
 
 ---
 
