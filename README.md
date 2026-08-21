@@ -60,6 +60,10 @@
   />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius77-bit&theme=github_dark&title_color=ff0000&text_color=ffffff&icon_color=ff0000&chart_color=ff0000&border_color=ff0000" width="48%" />
+</p>
+
 
 ---
 
