@@ -52,22 +52,21 @@
 
 ## 📊 GitHub Statistics
 
-<table align="center" width="100%">
-  <tr>
-    <td width="75%" align="center">
-      <h3>📈 Contribution Activity</h3>
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=tokyo-night&hide_border=true&area=true&height=180"
-        alt="Contribution Activity"
-        width="100%"
-      />
-    </td>
-    <td width="25%" align="center">
-      <h3>📌 GitHub Overview</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurerDev&bg_color=0D0D0D&color=C0C0C0&line=8C8C8C&point=FFFFFF&area=true&area_color=252525&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MurerDev&bg_color=0D0D0D&color=C0C0C0&line=8C8C8C&point=FFFFFF&area=true&area_color=252525&hide_border=true"
+    alt="MurerDev Contribution Activity"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Overview"
+    width="80%"
+  />
+</p>
 
 ---
 
