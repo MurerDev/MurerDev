@@ -22,15 +22,15 @@
 <p align="center">
 
 <a href="https://github.com/MurerDev">
-<img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF" height="40"/>
+<img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF" height="50"/>
 </a>
 
 <a href="https://instagram.com/arthur_murer">
-<img src="https://img.shields.io/badge/INSTAGRAM-171717?style=for-the-badge&logo=instagram&logoColor=FFFFFF" height="40"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-171717?style=for-the-badge&logo=instagram&logoColor=FFFFFF" height="50"/>
 </a>
 
 <a href="https://linkedin.com/in/SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-242424?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="40"/>
+<img src="https://img.shields.io/badge/LINKEDIN-242424?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" height="50"/>
 </a>
 
 </p>
