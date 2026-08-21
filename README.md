@@ -39,4 +39,4 @@ always learning and improving my skills.
 
 </div>
 
-<img src="9b8fe3903f18666b10bceb96798562ab.gif" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
