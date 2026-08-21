@@ -22,6 +22,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:16191d,100:8c8c8c&height=230&section=header&text=MURER&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=MURERDEV%20%7C%20WEB%20DEVELOPER&descSize=18&descAlignY=61&descColor=b8b8b8" />
+</p>
+
+---
+
 ## 🌐 Where to find me
 
 <p align="center">
