@@ -71,8 +71,11 @@
 
 ## 📊 GitHub Statistics
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MurerDev&show_icons=true&theme=dark&hide_border=true" />
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
 </p>
 
 </p>
