@@ -75,16 +75,6 @@
 
 ---
 
-## ⚡ GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MurerDev&bg_color=0D0D0D&color=C0C0C0&line=808080&point=FFFFFF&area=true&hide_border=true" />
-
-</p>
-
----
-
 ## 💻 Featured
 
 <p align="center">
