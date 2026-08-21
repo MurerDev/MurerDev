@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banneir.gif" />
+  <img src="banneir.gif" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Murer 👋</h1>
