@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:16191d,100:8c8c8c&height=230&section=header&text=MURER&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=MURERDEV%20%7C%20WEB%20DEVELOPER&descSize=18&descAlignY=61&descColor=b8b8b8" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=600&lines=I+don't+rely+on+luck.;I+build+my+own+path.;Code.+Build.+Evolve.;Always+learning%2C+always+building." />
+  <img src="banneir.gif" />
 </p>
 
 <h1 align="center">Hey, I'm Murer 👋</h1>
