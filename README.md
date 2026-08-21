@@ -38,3 +38,5 @@ always learning and improving my skills.
 **💙 Code. Build. Evolve.**
 
 </div>
+
+<img src="9b8fe3903f18666b10bceb96798562ab.gif" />
