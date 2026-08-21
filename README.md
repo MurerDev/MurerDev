@@ -22,7 +22,7 @@
 <p align="center">
 
 <a href="https://github.com/MurerDev">
-<img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF" height="44"/>
 </a>
 
 <a href="https://instagram.com/arthur_murer">
