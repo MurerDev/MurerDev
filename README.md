@@ -67,28 +67,32 @@
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MurerDev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B8B8B8&icon_color=C0C0C0" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurerDev&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B8B8B8&icon_color=C0C0C0" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurerDev&theme=github_dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MurerDev&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MurerDev&theme=github_dark" />
+
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MurerDev&hide_border=true&background=0D0D0D&ring=C0C0C0&fire=FFFFFF&currStreakLabel=C0C0C0&sideLabels=999999&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666" />
-</p>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MurerDev&bg_color=0D0D0D&color=C0C0C0&line=808080&point=FFFFFF&area=true&hide_border=true" />
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurerDev&bg_color=0D0D0D&color=C0C0C0&line=8C8C8C&point=FFFFFF&area=true&area_color=252525&hide_border=true" />
 </p>
 
 ---
