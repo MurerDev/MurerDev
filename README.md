@@ -64,7 +64,7 @@
     </td>
     <td width="25%" align="center">
       <h3>📌 GitHub Overview</h3>
-      <img src="https://komarev.com/ghpvc/?username=MurerDev&color=707070&style=flat-square&label=PROFILE+VIEWS" /> </p>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurerDev&bg_color=0D0D0D&color=C0C0C0&line=8C8C8C&point=FFFFFF&area=true&area_color=252525&hide_border=true" />
     </td>
   </tr>
 </table>
