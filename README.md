@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<a href="https://instagram.com/SEU_INSTAGRAM">
+<a href="https://instagram.com/arthur_murer">
 <img src="https://img.shields.io/badge/INSTAGRAM-171717?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
 
