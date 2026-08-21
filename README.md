@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cometa.gif" width="100%" />
+  <img src="./cometa.gif" width="100%" height="300" />
 </p>
 
 <h1 align="center">Hey, I'm Murer 👋</h1>
