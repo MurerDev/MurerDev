@@ -1,3 +1,22 @@
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udaysharmadev&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udaysharmadev&theme=tokyonight"
+        alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:16191d,100:8c8c8c&height=230&section=header&text=MURER&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=MURERDEV%20%7C%20WEB%20DEVELOPER&descSize=18&descAlignY=61&descColor=b8b8b8" />
 </p>
