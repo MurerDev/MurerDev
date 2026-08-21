@@ -57,9 +57,9 @@
 │                                              │
 │   🌐  Web Development                        │
 │   🖥️  Complete Systems                       │
-│   🗄️  Databases                              │
+│   🗄️  Databases                               │
 │   ⚙️  Backend Development                     │
-│   📚  Learning new technologies               │
+│   📚  Learning new technologies              │
 │   💡  Building new projects                  │
 │                                              │
 └──────────────────────────────────────────────┘
