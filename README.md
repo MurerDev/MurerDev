@@ -67,18 +67,6 @@
 
 ---
 
-## 💻 Featured
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:252525,100:707070&height=90&section=header&text=CODE%20%E2%80%A2%20BUILD%20%E2%80%A2%20EVOLVE&fontSize=22&fontColor=FFFFFF&animation=twinkling" />
-</p>
-
-<p align="center">
-  <sub>Building things that matter.</sub>
-</p>
-
-<br>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MurerDev&color=707070&style=flat-square&label=PROFILE+VIEWS" />
 </p>
