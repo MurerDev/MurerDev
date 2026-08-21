@@ -1,1 +1,51 @@
+name: Generate GitHub Stats
 
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: MurerDev
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: profile/stats.svg
+          show_icons: true
+          hide_border: true
+          bg_color: "0D0D0D"
+          title_color: "FFFFFF"
+          text_color: "C0C0C0"
+          icon_color: "C0C0C0"
+
+      - name: Generate Top Languages
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: MurerDev
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: profile/top-langs.svg
+          layout: compact
+          hide_border: true
+          bg_color: "0D0D0D"
+          title_color: "FFFFFF"
+          text_color: "C0C0C0"
+          icon_color: "C0C0C0"
+
+      - name: Commit generated stats
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          git diff --cached --quiet || git commit -m "Update GitHub stats"
+          git push
