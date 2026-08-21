@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius77-bit&theme=github_dark&title_color=ff0000&text_color=ffffff&icon_color=ff0000&chart_color=ff0000&border_color=ff0000" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius77-bit&theme=github_dark&title_color=e5e5e5&text_color=c0c0c0&icon_color=d4d4d4&chart_color=9e9e9e&border_color=b0b0b0" width="35%" />
 </p>
 
 
