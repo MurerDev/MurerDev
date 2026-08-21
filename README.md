@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-  <img src="./bannir.gif" width="100%">
+  <img src="./buraconegro.gif" width="100%">
 </p>
 
 ---
