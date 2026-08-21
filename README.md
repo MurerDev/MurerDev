@@ -46,7 +46,7 @@
 ## ⚙️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,linux&theme=dark" height="46" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,linux&theme=dark" height="44" />
 </p>
 ---
 
